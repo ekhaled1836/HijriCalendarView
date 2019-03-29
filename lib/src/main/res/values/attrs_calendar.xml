@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HijriCalendarView">
+        <attr name="dayNameTintColor" format="color"/>
+        <attr name="currentDayColor" format="color"/>
+        <attr name="selectedDayColor" format="color"/>
+        <attr name="normalHijriDayTextColor" format="color"/>
+        <attr name="normalGregorianDayTextColor" format="color"/>
+        <attr name="selectedHijriDayTextColor" format="color"/>
+        <attr name="selectedGregorianDayTextColor" format="color"/>
+        <attr name="currentHijriDayTextColor" format="color"/>
+        <attr name="currentGregorianDayTextColor" format="color"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="day_tint_event">#039be5</color>
+
+    <color name="day_background_current">#1976D2</color>
+    <color name="day_background_selected">#e1edfc</color>
+
+    <color name="day_background_name_tint">#ebebeb</color>
+
+    <color name="day_text_primary_normal">#3c4043</color>
+    <color name="day_text_primary_current">#f9fbfe</color>
+    <color name="day_text_primary_selected">#1967d2</color>
+    <color name="day_text_secondary_normal">#888888</color>
+    <color name="day_text_secondary_current">#b9d3f9</color>
+    <color name="day_text_secondary_selected">#2e74d6</color>
+</resources>

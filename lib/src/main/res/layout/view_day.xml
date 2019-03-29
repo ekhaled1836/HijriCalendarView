@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<me.ekhaled1836.hijricalendarview.util.SquareTextView xmlns:android="http://schemas.android.com/apk/res/android"
+                                                      android:id="@+id/day_text"
+                                                      android:layout_width="match_parent"
+                                                      android:layout_height="0dp"
+                                                      android:layout_margin="4dp"
+                                                      android:gravity="center"
+                                                      android:textDirection="rtl"/>
+
+        <!--app:autoSizeMaxTextSize="12sp"
+        app:autoSizeMinTextSize="4sp"
+        app:autoSizeStepGranularity="2sp"
+        app:autoSizeTextType="uniform"-->
